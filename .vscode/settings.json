@@ -1,0 +1,8 @@
+{
+    "emmet.syntaxProfiles": {
+        "html": {
+            "filters": "html,c"
+        },
+    },
+    "liveServer.settings.port": 5501
+}
